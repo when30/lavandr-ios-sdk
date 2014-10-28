@@ -1,2 +1,2 @@
-sages
+lavendr-ios-sdk
 =====
