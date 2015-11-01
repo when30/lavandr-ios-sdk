@@ -1,2 +1,2 @@
-lavendr-ios-sdk
+lavandr-ios-sdk
 =====
